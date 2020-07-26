@@ -21,4 +21,15 @@ I signed up to codepen and realise as i had a month break from starting 100dayso
 
 Time Spent: 2hours.
 
-Thoughts:
+Thoughts: Nervous about this 5 part project!
+
+----
+Log of Round 2 of #100DaysOfCode 26th of July (around 19h)
+
+
+
+Day 3: I have been working on 1 of the 5 projects for FCC's 1st challenge. And I chose to tribute inspirational Malala  & Tomorrow I am hoping to work out the padding. At first I was very daunted by the task but right now in my codepen, I see I am buidling some thing. Hopefully tomorrow, it can look more "coding" respectable.
+
+Time spent: 1 hour half
+
+Thoughts: Big thank you to FCC for holding my  hand & the person who came up with this challenge. I also hope that I stay motivated and enthusiastic.
