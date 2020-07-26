@@ -15,7 +15,7 @@ Log of Round 2 of #100DaysOfCode 26th of July
 
 DAY 2: Started Saturday evening 25th of July 2020 and finished half past midnight sunday 26th of July 2020
 
-Today's Progress: Day 2: I am  on my first day of  the Responsive Web Design Projects by FCC.  It just dawned on me that for a novice, I have a huge task ahead, I am going to attempt to have fun and learn a lot along this coding journey!!! 
+Today's Progress: Day 2: I am  on my first day of  the Responsive Web Design Projects by FCC. I have made a start on the Building a Tribute page and I chose "Malala".  It just dawned on me that for a novice, I have a huge task ahead, I am going to attempt to have fun and learn a lot along this coding journey!!! 
 
 I signed up to codepen and realise as i had a month break from starting 100daysofCode, I need to revise my first FCC lessons.
 
