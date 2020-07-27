@@ -38,10 +38,10 @@ Log #100DaysOfCode 27th of July
 
 
 
-Day 4: ....
+Day 4: I managed to squeeze an hour of coding but today was not a productive or fruitful coding day as I am exhausted.
+       I also did not pursue my 1st part of  my Tribue project because with the fatigue i was feeling i wanted to see concrete results and so decided to embark onto JavaScript challenge.  I see that JavaScript is going to be an " arduous" and "perhaps" interesting journey.
 
-Log of Round 2 of #100DaysOfCode 26th of July (around 19h)
+Time Spent: 1 hour
 
+Thoughts: I am scared and I am only on day 4 ...aaaaaah! Thank you FCC!
 
-
-Day 4: 
