@@ -30,6 +30,9 @@ Day 3: I have been working on 1 of the 5 projects for FCC's 1st challenge. And I
 
 Time spent: 1 hour half
 
+
+
+
 Thoughts: Big thank you to FCC for holding my  hand & the person who came up with this challenge. I also hope that I stay motivated and enthusiastic.
 
 -------
@@ -44,4 +47,16 @@ Day 4: I managed to squeeze an hour of coding but today was not a productive or 
 Time Spent: 1 hour
 
 Thoughts: I am scared and I am only on day 4 ...aaaaaah! Thank you FCC!
+
+
+-------
+
+
+#100DaysOfCode 28th of July
+
+Day 5: Even more exhausted from work, but completed my  hour. I hope over the weekend, I can dedicate more hours to my new passion!
+
+Time spent: a little more than an hour
+
+Thoughts: I need to pre-schedule my coding hour, otherwise, I might find it hard to complete this  challenge!
 
