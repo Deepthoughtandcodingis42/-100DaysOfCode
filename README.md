@@ -31,8 +31,6 @@ Day 3: I have been working on 1 of the 5 projects for FCC's 1st challenge. And I
 Time spent: 1 hour half
 
 
-
-
 Thoughts: Big thank you to FCC for holding my  hand & the person who came up with this challenge. I also hope that I stay motivated and enthusiastic.
 
 -------
@@ -55,8 +53,20 @@ Thoughts: I am scared and I am only on day 4 ...aaaaaah! Thank you FCC!
 #100DaysOfCode 28th of July
 
 Day 5: Even more exhausted from work, but completed my  hour. I hope over the weekend, I can dedicate more hours to my new passion!
+ I realised I can't focus on my FCC Responsive Web Design projects during the work week, so I've put that on pause till the weekend & started learning JavaScript. It is early days but I am sure I would find learning #Klingon easier than JS! 
+
 
 Time spent: a little more than an hour
 
 Thoughts: I need to pre-schedule my coding hour, otherwise, I might find it hard to complete this  challenge!
+
+------------------
+#100DaysOfCode 29th of July
+
+Day 6: So I am moving along slowly through the beginning of FCC's JavaScript Algorythmn and Data Structure course. I got stuck at 25%. I hate it when I get stuck and at times getting unstuck fills up almost half of my hour i am meant to be coding. 
+
+
+Time spent: 2hours
+
+Thoughts: Day 7 tomorrow, will mean, i will have coded for a week! I am so excited about this funny and non-anticpated journey! I also need to learn how to use Twitter properly. I am also sharing my journey on that platform. I think I have received some likes and perhaps some retweet! Having said that, I need to learn about github and codepen, both platforms i am currently using but know just about an iota about both. Buth thank you GITHUB for your support!!
 
