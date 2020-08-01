@@ -70,3 +70,15 @@ Time spent: 2hours
 
 Thoughts: Day 7 tomorrow, will mean, i will have coded for a week! I am so excited about this funny and non-anticpated journey! I also need to learn how to use Twitter properly. I am also sharing my journey on that platform. I think I have received some likes and perhaps some retweet! Having said that, I need to learn about github and codepen, both platforms i am currently using but know just about an iota about both. Buth thank you GITHUB for your support!!
 
+
+---
+---------
+#100DaysOfCode 1st August at 2am
+
+Day 8: I managed to squeeze my hour, i was awake but the last five minutes were tough.
+
+
+Time spent: an hour
+
+Thoughts: I need to make sure that i do my coding during day time and not before going to bed, as i am so tired so not able to fully focus on coding.
+
