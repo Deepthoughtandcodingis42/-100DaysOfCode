@@ -72,6 +72,15 @@ Thoughts: Day 7 tomorrow, will mean, i will have coded for a week! I am so excit
 
 
 ---
+
+#100DaysOfCode 30th July
+
+Day 7: I cannot believe that  managed a week of coding.
+
+Time spent: 2 hours
+
+Thoughts: A week, woop woop. Another 93 days to go.
+
 ---------
 #100DaysOfCode 1st August at 2am
 
