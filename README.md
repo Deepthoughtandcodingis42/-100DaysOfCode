@@ -73,13 +73,28 @@ Thoughts: Day 7 tomorrow, will mean, i will have coded for a week! I am so excit
 
 ---
 
-#100DaysOfCode 30th July
+(#100DaysOfCode 30th July
 
 Day 7: I cannot believe that I managed a week of coding.(It seems that i forgot  to write my Day 7, so wrote it on Day 8)
 
 Time spent: 2 hours
 
-Thoughts: A week, woop woop. Another 93 days to go.
+Thoughts: A week, woop woop. Another 93 days to go.)
+
+
+
+
+
+#100DaysOfCode 29th of July
+
+Day 7: Still on the JS Obstacle course - 35% done......i keep getting stuck, which is so frustrating as i might end up spending 30 mins trying to resolve the issue..sometimes, it's a matter of a space and at times, it's just me needing to copy and paste exactly what I see...myData is not hte same as Data. There is one long string  with a mix of variables: that gave me hell  "Our" + " " myNoun  " " + myAdverb " " + " " myAdjective + myVerb "." 
+
+
+Time spent: 2hours
+
+Thoughts:I am confused by coding....i am hoping that this JS will sink in, and will become second nature to me one day...i mean it is very early days and i have another 93 more days of this confusion.
+
+However I REALLY want to stick to this challenge and most importantly get all the FCC certificates!!!
 
 ---------
 #100DaysOfCode 1st August started at 1am and finished at 2am
